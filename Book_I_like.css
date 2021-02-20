@@ -1,0 +1,86 @@
+#course,#novel{
+    text-align: center;
+    font-family:castellar;
+    color: rgb(4,159,117);
+    text-transform: uppercase;
+}
+a{
+    color:navy;
+    font-size:22;
+    font-family: "Courier new";
+    text-decoration: none;
+}
+a:hover
+{
+    color:indianred;
+}
+body
+{
+    font-family: "monotype corsiva";
+    font-weight: lighter;
+    font-size: 22;
+   line-height: 1.3em;
+    background-image:url(../Images/backgrouond%202.jpg);
+    background-position: center right;
+    background-repeat: no-repeat
+}
+h3
+{
+    font-family:serif;
+    font-size: 27;
+    color:darkcyan;
+}
+#ANSI
+{
+    word-spacing: 0.28em;;
+}
+#ANSI:first-letter
+{
+    font-size: 250%;
+}
+#DS
+{
+    word-spacing: 0.28em;
+}
+#DS:first-letter
+{
+    font-size: 250%;
+}
+#mistake
+{
+    word-spacing: 0.28em;
+}
+#mistake:first-letter
+{
+    font-size: 250%;
+}
+#half
+{
+    word-spacing: 0.28em;
+}
+#half:first-letter
+{
+    font-size: 250%;
+}
+#alchemist
+{
+    word-spacing: 0.28em;
+}
+#alchemist:first-letter
+{
+    font-size: 250%;
+}
+
+img
+{
+    border-style:double;
+    border-color:black;
+    border-width:thick;
+}
+h1
+{
+  font-family:castellar;  
+    text-align: center;
+     color: rgb(4,159,117);
+    text-transform: uppercase;
+}
